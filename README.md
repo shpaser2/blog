@@ -1,2 +1,2 @@
 # blog
-My github blog
+Example of a GitHub based blog
